@@ -14,4 +14,7 @@ This helps decision-makers identify trends, evaluate profitability, and optimize
 - Who are the top-performing customers by sales and orders?  
 - How do different customer segments contribute to overall performance?  
 - What are the most common shipping modes and their impact on delivery?  
-- Which locations (states/regions) contribute the most to revenue?  
+- Which locations (states/regions) contribute the most to revenue?
+
+- Dashboard Interaction [Home Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Digital-Wallet-Dashboard/blob/main/Home%20Dashboard.png)  | [Datiles Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Digital-Wallet-Dashboard/blob/main/Datiles%20Dashboard.png)  | [Datiles Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Digital-Wallet-Dashboard/blob/main/Datiles%20Dashboard.png)
+
