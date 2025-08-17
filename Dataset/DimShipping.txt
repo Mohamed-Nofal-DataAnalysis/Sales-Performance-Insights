@@ -1,0 +1,7 @@
+Ship_ID	Ship Mode
+0	Second Class
+1	Standard Class
+2	First Class
+3	Same Day
+2	First Class
+3	Same Day
