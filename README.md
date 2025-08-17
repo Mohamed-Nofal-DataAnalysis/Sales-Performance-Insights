@@ -16,6 +16,5 @@ This helps decision-makers identify trends, evaluate profitability, and optimize
 - What are the most common shipping modes and their impact on delivery?  
 - Which locations (states/regions) contribute the most to revenue?
 
-- Dashboard Interaction [Customer_Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/blob/main/Customer_Dashboard.jpeg)  | [Product_Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/blob/main/Product_Dashboard.jpeg)  | [Location_Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/blob/main/Location_Dashboard.jpeg)   | [Data Model ](https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/blob/main/Data%20model.png)
-
+- Dashboard Interaction [Customer_Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/blob/main/Customer_Dashboard.jpeg)  | [Product_Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/blob/main/Product_Dashboard.jpeg)  | [Location_Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/blob/main/Location_Dashboard.jpeg)   
 
