@@ -28,5 +28,5 @@ This helps decision-makers identify trends, evaluate profitability, and optimize
 
 ## Dashboard
 <img width="2489" height="1046" alt="Home Dashboard" src="https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/blob/main/Customer_Dashboard.jpeg" />
-<img width="2461" height="1058" alt="https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/blob/main/Product_Dashboard.jpeg" />
-<img width="2461" height="1058" alt="Datiles Dashboard" src="https://github.com/user-attachments/assets/6ff7583f-eba7-4d85-9523-166d5198bec3" />
+<img width="2489" height="1046" alt="Home Dashboard" src="https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/blob/main/Product_Dashboard.jpeg" />
+<img width="2461" height="1058" alt="Datiles Dashboard" src="https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/blob/main/Location_Dashboard.jpeg" />
