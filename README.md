@@ -5,5 +5,5 @@ and to build interactive dashboards that provide clear insights into sales perfo
 This helps decision-makers identify trends, evaluate profitability, and optimize business strategies.
 
 ## Dataset used
-[Download Dataset](https://github.com/Mohamed-Nofal-DataAnalysis/Digital-Wallet-Dashboard/raw/main/Digital_wallet_transactions%20Dashboard.xlsx)
+[Download Dataset](https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/tree/main/Dataset)
 
