@@ -7,3 +7,11 @@ This helps decision-makers identify trends, evaluate profitability, and optimize
 ## Dataset used
 [Download Dataset](https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/tree/main/Dataset)
 
+## Questions (KPIs)
+
+- What is the total sales, profit, and discount across different regions?  
+- Which products and categories generate the highest profit?  
+- Who are the top-performing customers by sales and orders?  
+- How do different customer segments contribute to overall performance?  
+- What are the most common shipping modes and their impact on delivery?  
+- Which locations (states/regions) contribute the most to revenue?  
